@@ -1,0 +1,10 @@
+[package]
+name = "bevy_asset_map"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies.bevy]
+version = "0.13"
+
+[dependencies.once_cell]
+version = "1.19"
